@@ -24,4 +24,7 @@
 ## Additional Resources
 ---
 1. React Navigation has changed a bit since their recent v.4.0.0 release: https://github.com/react-navigation/react-navigation/releases/tag/v4.0.0
+2. Icons Listing: https://github.com/expo/vector-icons
+
+
 
