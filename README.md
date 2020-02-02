@@ -15,9 +15,13 @@
 * Have a back button to go back to the original search results.
 
 
-
 ## Technologies Used
 ---
 * React Native
 * yelp.com/fusioin
+
+
+## Additional Resources
+---
+1. React Navigation has changed a bit since their recent v.4.0.0 release: https://github.com/react-navigation/react-navigation/releases/tag/v4.0.0
 
