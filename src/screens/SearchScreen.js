@@ -22,8 +22,8 @@ const SearchScreen = () => {
         <View style={styles.view}>
             <SearchBar 
             term={term} 
-            onTermChange={newTerm=>setTerm(newTerm)}
-            onTermSubmit={()=> searchApi()}
+            onTermChange={setTerm}
+            onTermSubmit={searchApi}
             />
             <Text> Search Screen </Text>
             <Text>We have found {results.length} results </Text>
