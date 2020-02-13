@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
     view:{
         backgroundColor:'white',
         height:1000,
+        flex:1,
     }
 });
 
