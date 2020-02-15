@@ -5,7 +5,7 @@ import useResults from '../hooks/useResults';
 import ResultsList from '../components/ResultsList';
 
 const SearchScreen = ({navigation}) => {
-    console.log(props);
+    // console.log(props);
     const [term, setTerm] = useState('');
     const [searchApi, results, errorMessage] = useResults();
     // console.log(results);
