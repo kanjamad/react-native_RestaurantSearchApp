@@ -44,13 +44,16 @@ const styles = StyleSheet.create({
         marginTop:10
     },
     title: {
-            fontSize: 18,
-            fontWeight: 'bold',
-            marginLeft: 15,
-            marginBottom: 5
+        fontSize: 18,
+        fontWeight: 'bold',
+        marginLeft: 15,
+        marginBottom: 5,
+        marginTop: 10
         },
     container: {
-        marginTop: 10
+        backgroundColor: 'white',
+        height: 1000,
+        flex: 1,
     }
 })
 
